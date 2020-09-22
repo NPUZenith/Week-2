@@ -1,7 +1,9 @@
 // Copyright NPUZenith
 
-public class AboutMe {
-    public static void main(String[] args) {
+public class AboutMe
+{
+    public static void main(String[] args)
+    {
 
         System.out.println("Hello World");
 
@@ -11,7 +13,8 @@ public class AboutMe {
         System.out.println(output);
     }
 
-    public static String myName(){
+    public static String myName()
+    {
         return "Zenith";
     }
 }
